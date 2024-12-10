@@ -9,7 +9,12 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "name": "typicode"
+    },
+    {
+      "name": "typicode"
+    }
+  ]
 }
